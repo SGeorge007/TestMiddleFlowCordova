@@ -1,5 +1,7 @@
 {
   "name": "testMiddleFlowCordova",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
